@@ -1,5 +1,5 @@
 # cors.gmbh
-![CORS.gmbh](./cors-we-want-you-3.jpg?raw=true)
+[![CORS](https://github.com/cors-gmbh/.github/blob/dc0f9620a08711cfdcdbed7ec274b1675a29ef50/cors-we-want-you-3.jpg?raw=true)]([https://codecademy.com](https://cors.gmbh/jobs))
 
 ***
 
