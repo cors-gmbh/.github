@@ -1,4 +1,4 @@
-[![CORS - One system. Down to the Core.](https://raw.githubusercontent.com/cors-gmbh/.github/main/cors-banner.jpg)](https://cors.gmbh)
+[![CORS - One system. Down to the Core.](https://raw.githubusercontent.com/cors-gmbh/.github/refs/heads/main/cors-banner.jpg)](https://cors.gmbh)
 
 We are a Pimcore Gold Partner from Wels, Austria. We design, build and run Pimcore platforms for industry and retail, and wire them into SAP, ERP, PLM and CRM systems. One small team covers the whole job, from architecture to production on call.
 
@@ -20,8 +20,8 @@ We also work on the platform itself: more than 140 merged pull requests to the P
 
 ### 🏗 What you would work on
 
-- **Commerce at scale:** Pimcore and CoreShop for Austrian Standards, with about 2 million products and an order roughly every 10 minutes.
-- **One platform, many channels:** a product data platform that feeds 9 websites across several countries for Kwizda Agro.
+- **Commerce at scale:** Pimcore and CoreShop shops with millions of products and orders around the clock.
+- **One platform, many channels:** one product data platform that feeds many websites across several countries.
 - **Integrations:** SAP, Dynamics 365 Business Central, Salesforce, HubSpot, BMEcat, ETIM/eCl@ss.
 - **Pimcore Studio:** new React extensions and migrating ExtJS interfaces to Studio.
 

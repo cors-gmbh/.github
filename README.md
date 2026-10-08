@@ -5,7 +5,7 @@
 Put this as the first line of a bundle's README:
 
 ```markdown
-[![CORS - One system. Down to the Core.](https://raw.githubusercontent.com/cors-gmbh/.github/main/cors-banner.jpg)](https://cors.gmbh)
+[![CORS - One system. Down to the Core.](https://raw.githubusercontent.com/cors-gmbh/.github/refs/heads/main/cors-banner.jpg)](https://cors.gmbh)
 ```
 
 The source is in [`banner/banner.html`](banner/banner.html). To regenerate the image (2560×800):
